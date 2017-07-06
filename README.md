@@ -1,5 +1,3 @@
-# Immaculate
-
 [logo]:https://raw.githubusercontent.com/nebbsie/immaculate/master/logo.png "Immaculate logo"
 ![alt text](https://raw.githubusercontent.com/nebbsie/immaculate/master/logo.png "Logo Title Text 1")
 
