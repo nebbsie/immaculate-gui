@@ -10,5 +10,14 @@
 `Renames film using information gained from API.`</br>
 `Select multiple films and rename them all at once.`</br>
 
+## Planned Faetures
+`Duplicate file finder`</br>
+`Directory cleanup`</br>
+`Real time folder monitoring`</br>
+`Film subtitle finder`</br>
+`Multiple language film track finder`</br>
+`Missing film from franchise finder`</br>
+
+
 ## Application
 ![alt tag](https://raw.githubusercontent.com/nebbsie/immaculate-gui/master/kongIsland.PNG)
