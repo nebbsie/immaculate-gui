@@ -47,6 +47,7 @@ namespace Immaculate
         // Gives the user the diolog to select folder and recieves the names of the files.
         private void getFilesFromFolder()
         {
+            filmsAdded = new ArrayList();
             using (var fbd = new FolderBrowserDialog())
             {
                 DialogResult result = fbd.ShowDialog();
