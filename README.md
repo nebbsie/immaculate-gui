@@ -9,6 +9,7 @@
 `Presents the information about the film and shows a background image and poster for the film.`</br>
 `Renames film using information gained from API.`</br>
 `Select multiple films and rename them all at once.`</br>
+`Shows rating of film in a bar format.`</br>
 
 ## Planned Faetures
 `Duplicate file finder`</br>
@@ -21,3 +22,5 @@
 
 ## Application
 ![alt tag](https://raw.githubusercontent.com/nebbsie/immaculate-gui/master/kongIsland.PNG)
+
+![alt tag](https://raw.githubusercontent.com/nebbsie/immaculate-gui/78650c39d634dd832782fc5caeeddde119542855/DIEHARD.PNG)
